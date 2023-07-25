@@ -1,0 +1,15 @@
+F:\GITed\C# sharp\examples\ex006\bin\Debug\net7.0\ex006.exe
+F:\GITed\C# sharp\examples\ex006\bin\Debug\net7.0\ex006.deps.json
+F:\GITed\C# sharp\examples\ex006\bin\Debug\net7.0\ex006.runtimeconfig.json
+F:\GITed\C# sharp\examples\ex006\bin\Debug\net7.0\ex006.dll
+F:\GITed\C# sharp\examples\ex006\bin\Debug\net7.0\ex006.pdb
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.csproj.AssemblyReference.cache
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.AssemblyInfoInputs.cache
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.AssemblyInfo.cs
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.csproj.CoreCompileInputs.cache
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.dll
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\refint\ex006.dll
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.pdb
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ex006.genruntimeconfig.cache
+F:\GITed\C# sharp\examples\ex006\obj\Debug\net7.0\ref\ex006.dll
